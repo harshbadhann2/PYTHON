@@ -1,4 +1,4 @@
-
+## this a code for simple password generation no random arrangement of keys
 # PASSWORD MANAGER
 
 import random
